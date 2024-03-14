@@ -1,4 +1,12 @@
 {
+  "name": "playwright-window-resize",
+  "homepage": "https://github.com/graffhyrum/playwright-window-resize",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Joshua Pendragon",
+  "scripts": {
+    "test": "playwright test"
+  },
   "devDependencies": {
     "@playwright/test": "^1.42.1",
     "@types/node": "^20.11.27",
